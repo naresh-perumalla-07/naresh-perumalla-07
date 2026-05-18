@@ -13,10 +13,10 @@
 ## 🌟 About Me
 
 - 🌱 Currently learning **GenAI, RAG, LLMs, and Deep Learning**
-- 💬 Ask me about **MERN, Java, Machine Learning, RAG, and DL**
+- 💬 Ask me about **MERN, Java, Machine Learning, NLP, RAG, and DL**
 - 🚀 Building AI-powered projects and full-stack applications
 - 🎯 Focused on becoming an AI + Full Stack Engineer
-- 📫 Reach me at: **naresh.xplores777@gmail.com**
+- 📫 Reach me at:  **naresh.xplores777@gmail.com**
 
 ---
 
@@ -43,30 +43,20 @@ width="40" />
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-### 🎬 Movixa
-AI-powered Movie Recommendation System using TMDB API + ML
-
-### ✍️ Blogsy
-AI Blog Generation Platform using LLMs & Agents
-
-### 🏡 TripMate
-Full-stack Airbnb Clone using MERN Stack
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=naresh-perumalla-07&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=naresh-perumalla-07&show_icons=true&theme=tokyonight" 
+  />
 </p>
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-perumalla-07&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naresh-perumalla-07&layout=compact&theme=tokyonight" 
+  />
 </p>
 
 ---
@@ -75,19 +65,4 @@ Full-stack Airbnb Clone using MERN Stack
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naresh-perumalla-07&theme=tokyonight" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-💻 I love building AI systems at night 🌙
-</p>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-perumalla-07&layout=compact&theme=tokyonight"
-/>
-
 </p>
