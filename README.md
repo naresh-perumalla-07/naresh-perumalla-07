@@ -5,10 +5,10 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;GenAI+Builder;RAG+Systems+Explorer;Machine+Learning+Enthusiast;Deep+Learning+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;GenAI+Builder;RAG+Systems+Explorer;Machine+Learning+Enthusiast;Deep+Learning+Learner" />
 </p>
 
-<br>
+---
 
 ## 🌟 About Me
 
@@ -18,7 +18,7 @@
 - 🎯 Focused on becoming an AI + Full Stack Engineer
 - 📫 Reach me at: **naresh.xplores777@gmail.com**
 
-<br>
+---
 
 ## 🌐 Connect With Me
 
@@ -32,52 +32,56 @@ width="40" />
 </a>
 </p>
 
-<br>
+---
 
 ## 🚀 Tech Stack
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,java,python,docker,git,tensorflow,pytorch,mysql" />
 
 </p>
 
-<br>
+---
+
+## 📌 Featured Projects
+
+### 🎬 Movixa
+AI-powered Movie Recommendation System using TMDB API + ML
+
+### ✍️ Blogsy
+AI Blog Generation Platform using LLMs & Agents
+
+### 🏡 TripMate
+Full-stack Airbnb Clone using MERN Stack
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=naresh-perumalla-07&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=naresh-perumalla-07&show_icons=true&theme=tokyonight"
-/>
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-perumalla-07&layout=compact&theme=tokyonight"/>
+</p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naresh-perumalla-07&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💻 I love building AI systems at night 🌙
 </p>
 
 <p align="center">
