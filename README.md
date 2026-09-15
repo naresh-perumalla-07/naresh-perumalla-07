@@ -16,7 +16,7 @@
 - 💬 Ask me about **MERN, Java, Machine Learning, NLP, RAG, and DL**
 - 🚀 Building AI-powered projects and full-stack applications
 - 🎯 Focused on becoming an AI + Full Stack Engineer
-- 📫 Reach me at:  **naresh.xplores777@gmail.com**
+  
 
 ---
 
