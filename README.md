@@ -12,11 +12,11 @@
 
 ## 🌟 About Me
 
-- 🌱 Currently learning **GenAI, RAG, LLMs, and Deep Learning**
-- 💬 Ask me about **MERN, Java, Machine Learning, NLP, RAG, and DL**
-- 🚀 Building AI-powered projects and full-stack applications
-- 🎯 Focused on becoming an AI + Full Stack Engineer
-- 📫 Reach me at: **naresh.xplores777@gmail.com**
+* 🌱 Currently learning **GenAI, RAG, LLMs, and Deep Learning**
+* 💬 Ask me about **MERN, Java, Machine Learning, NLP, RAG, and DL**
+* 🚀 Building AI-powered projects and full-stack applications
+* 🎯 Focused on becoming an AI + Full Stack Engineer
+* 📫 Reach me at: **[naresh.xplores777@gmail.com](mailto:naresh.xplores777@gmail.com)**
 
 ---
 
@@ -46,15 +46,21 @@ width="40" />
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=naresh-perumalla-07&show_icons=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=naresh-perumalla-07&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naresh-perumalla-07&layout=compact&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=naresh-perumalla-07&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
+</p>
+
+---
+
+<p align="center">
+  <i>Lots of caffeine & love. ☕❤️</i>
 </p>
 
