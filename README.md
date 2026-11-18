@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-* 🌱 Currently learnsdfsding **GenAI, RAG, LLMs, and Deep Learning**
+* 🌱 Currently learning **GenAI, RAG, LLMs, and Deep Learning**
 * 💬 Ask me about **MERN, Java, Machine Learning, NLP, RAG, and DL**
 * 🚀 Building AI-powered projects and full-stack applications
 * 🎯 Focused on becoming an AI + Full Stack Engineer
